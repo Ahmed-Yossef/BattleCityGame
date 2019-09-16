@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/BattleCityBoard.qml</file>
+        <file>QML/Brick.qml</file>
+        <file>QML/Bullet.qml</file>
+        <file>QML/Concrete.qml</file>
+        <file>QML/Falcon.qml</file>
+        <file>QML/GameWindow.qml</file>
+        <file>QML/NormalTank.qml</file>
+        <file>QML/PlayerTank.qml</file>
+        <file>QML/Images/Bullet/bullet_down.png</file>
+        <file>QML/Images/Bullet/bullet_left.png</file>
+        <file>QML/Images/Bullet/bullet_right.png</file>
+        <file>QML/Images/Bullet/bullet_up.png</file>
+        <file>QML/Images/Falcon/falcon_alive.png</file>
+        <file>QML/Images/Falcon/falcon_dead.png</file>
+        <file>QML/Images/Obstacles/bricks.png</file>
+        <file>QML/Images/Obstacles/Concrete.png</file>
+        <file>QML/Images/Tanks/Normal/normal_enemy_backward_1.png</file>
+        <file>QML/Images/Tanks/Normal/normal_enemy_forward_1.png</file>
+        <file>QML/Images/Tanks/Normal/normal_enemy_left_1.png</file>
+        <file>QML/Images/Tanks/Normal/normal_enemy_right_1.png</file>
+        <file>QML/Images/Tanks/Player/backward_1.png</file>
+        <file>QML/Images/Tanks/Player/forward_1.png</file>
+        <file>QML/Images/Tanks/Player/left_1.png</file>
+        <file>QML/Images/Tanks/Player/right_1.png</file>
+    </qresource>
+</RCC>
